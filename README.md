@@ -1,7 +1,7 @@
 Highlights:
 
 - 🌟 Tech stack: React + Mysql + TailwindCSS + Daisy UI
-- 🎃 Authentication && Authorization with JWT
+- 🎃 Authentification sécurisée (JWT + Argon2 + 2FA par email)
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
 - ⏳ And much more!
